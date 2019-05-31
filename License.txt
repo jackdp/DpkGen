@@ -1,0 +1,9 @@
+﻿
+------------------------------------------------------------------------------
+DpkGen License
+
+Absolutely freeware: You can use / modify my source files and compiled binary files for any purpose, without any restrictions and without any fees.
+
+------------------------------------------------------------------------------
+
+https://github.com/jackdp/DpkGen
