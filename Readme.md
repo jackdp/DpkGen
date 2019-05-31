@@ -8,7 +8,7 @@
 	* [Exit codes](#exit-codes)
 	* [Hints](#hints)
 * [Template files](#template-files)
-* [Examples](#examples)
+* [Example](#example)
 * [Compilation](#compilation)
 * [Changelog / Releases](#changelog--releases)
 * [License](#license)
@@ -47,13 +47,13 @@ The output DPK file.
 Package description. All instances of the text `<DESCRIPTION>` in the template file will be replaced by the string specified in this option.
 
 **`-p`, `--lib-prefix=STR`**  
-Package description. All instances of the text `<LIBPREFIX>` in the template file will be replaced by the string specified in this option.
+Library prefix. All instances of the text `<LIBPREFIX>` in the template file will be replaced by the string specified in this option.
 
 **`-s`, `--lib-suffix=STR`**  
-Package description. All instances of the text `<LIBSUFFIX>` in the template file will be replaced by the string specified in this option.
+Library suffix. All instances of the text `<LIBSUFFIX>` in the template file will be replaced by the string specified in this option.
 
 **`-v`, `--lib-version=STR`**  
-Package description. All instances of the text `<LIBVERSION>` in the template file will be replaced by the string specified in this option.
+Library version. All instances of the text `<LIBVERSION>` in the template file will be replaced by the string specified in this option.
 
 ### Information
 
